@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contacto2</string>
+    <string name="txt1">Nombre</string>
+    <string name="txt2">Email</string>
+    <string name="txt3">Descripción</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="editar">Editar</string>
+</resources>
